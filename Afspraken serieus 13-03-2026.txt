@@ -1,0 +1,8 @@
+1. Aankomende maandag om 10:00 op de 11de
+2. Aankomende donderdag om 15:30 op de 5de en laten wij elkaar de winstformule zien
+	en heeft Tim de feedback verwerkt van Marc in de bestanden van opdracht 1,
+	DeBeste heeft Logistische regressie gefinetuned en
+	Jeffrey heeft Support Vector Machine af.
+3. Vanavond om 23:59 hebben wij 3en (DeBeste: beslisboom, Tim: Random Forrest en
+	Jeffrey: Gradiënt Boosting) de code afgerond met voor elk van ons 2
+	bestanden
