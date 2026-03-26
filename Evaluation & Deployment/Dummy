@@ -1,0 +1,21 @@
+"""
+@
+Auteurs:        Jeffrey Jason Boekstaaf, Tim Paulus van Croimvort en Haydar Eryörük
+Studentnummers: 500460365, 500916516 en 500910901
+Datum:          20-03-2026
+Vak:            Beroepsproject 3.4
+Opleiding:      Toegepaste Wiskunde & Data Science
+School:         Hogeschool van Amsterdam
+"""
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+import pickle
+import seaborn as sns
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import accuracy_score, classification_report, confusion_matrix, ConfusionMatrixDisplay, roc_auc_score, RocCurveDisplay, f1_score, precision_score, recall_score
+from sklearn.pipeline import Pipeline
+from sklearn.preprocessing import LabelEncoder
+
+# Hier wordt de testdata ingeladen.
+data_test = pd.read_csv("data_test.csv")
